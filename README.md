@@ -10,8 +10,8 @@ This project provides the data based on classification to check if the patient i
 6. Splitting the data into Training and Validation Testing
 7. Building Logistic Regression Model
 8. Generate Classifcation report (Accuracy -> 0.66)
-9. Tuned Logistic regresison Model (Adjustment of Threshold -> 0.456, Accuarcy -> 0.72, Recall for class 0 -> 0.70, Recall for class 1 -> 0.74)
-10. Building Decision Tree Model (Accuracy -> 0.80, Recall for class 0 -> 0.82, Recall for class 1 -> 0.79)
+9. Tuned Logistic regresison Model (**Adjustment of Threshold - 0.456**, **Accuarcy - 0.72**, **Recall for class 0 - 0.70**, **Recall for class 1 - 0.74**)
+10. Building Decision Tree Model (**Accuracy - 0.80**, **Recall for class 0 - 0.82**, **Recall for class 1 - 0.79**)
 
 # Conclusion
 As compared to **Logistic Regression**, Decision Tree is performed much better as we can see that the **Recall** & **f1-score** is **Higher** than **Logistic Regression**
