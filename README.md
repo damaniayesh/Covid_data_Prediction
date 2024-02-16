@@ -14,4 +14,4 @@ This project provides the data based on classification to check if the patient i
 10. Building Decision Tree Model (**Accuracy - 0.80**, **Recall for class 0 - 0.82**, **Recall for class 1 - 0.79**)
 
 # Conclusion
-As compared to **Logistic Regression**, Decision Tree is performed much better as we can see that the **Recall** & **f1-score** is **Higher** than **Logistic Regression**
+**Logistic Regression**, Decision Tree is performed much better as we can see that the **Recall** & **f1-score** is **Higher** than **Logistic Regression**
